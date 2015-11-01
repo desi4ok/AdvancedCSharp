@@ -1,0 +1,7 @@
+c:\users\programming\documents\visual studio 2015\Projects\Exam\Pr_01\bin\Debug\Pr_01.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\bin\Debug\Pr_01.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\bin\Debug\Pr_01.exe
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\bin\Debug\Pr_01.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\obj\Debug\Pr_01.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\obj\Debug\Pr_01.exe
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_01\obj\Debug\Pr_01.pdb

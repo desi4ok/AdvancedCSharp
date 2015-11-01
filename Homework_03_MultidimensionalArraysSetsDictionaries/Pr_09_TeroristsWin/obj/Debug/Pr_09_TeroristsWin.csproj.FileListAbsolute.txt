@@ -1,0 +1,6 @@
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\bin\Debug\Pr_09_TeroristsWin.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\bin\Debug\Pr_09_TeroristsWin.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\bin\Debug\Pr_09_TeroristsWin.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\obj\Debug\Pr_09_TeroristsWin.csprojResolveAssemblyReference.cache
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\obj\Debug\Pr_09_TeroristsWin.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_09_TeroristsWin\obj\Debug\Pr_09_TeroristsWin.pdb

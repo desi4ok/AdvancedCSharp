@@ -1,0 +1,6 @@
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\bin\Debug\Pr_13_ActivityTracker.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\bin\Debug\Pr_13_ActivityTracker.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\bin\Debug\Pr_13_ActivityTracker.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\obj\Debug\Pr_13_ActivityTracker.csprojResolveAssemblyReference.cache
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\obj\Debug\Pr_13_ActivityTracker.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_13_ActivityTracker\obj\Debug\Pr_13_ActivityTracker.pdb

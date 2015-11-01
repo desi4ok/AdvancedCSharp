@@ -1,0 +1,6 @@
+c:\users\programming\documents\visual studio 2015\Projects\Exam\Pr_03\bin\Debug\Pr_03.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_03\bin\Debug\Pr_03.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_03\bin\Debug\Pr_03.exe
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_03\bin\Debug\Pr_03.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_03\obj\Debug\Pr_03.exe
+D:\ProgrammingDeska\05_AdvancedC#\Exam\Pr_03\obj\Debug\Pr_03.pdb

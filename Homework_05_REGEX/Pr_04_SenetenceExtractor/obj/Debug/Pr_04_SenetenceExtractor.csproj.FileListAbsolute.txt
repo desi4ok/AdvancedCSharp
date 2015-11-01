@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\bin\Debug\Pr_04_SenetenceExtractor.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\bin\Debug\Pr_04_SenetenceExtractor.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\bin\Debug\Pr_04_SenetenceExtractor.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\obj\Debug\Pr_04_SenetenceExtractor.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\obj\Debug\Pr_04_SenetenceExtractor.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_04_SenetenceExtractor\obj\Debug\Pr_04_SenetenceExtractor.pdb

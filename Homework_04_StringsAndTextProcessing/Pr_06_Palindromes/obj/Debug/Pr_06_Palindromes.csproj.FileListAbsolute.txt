@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\bin\Debug\Pr_06_Palindromes.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\bin\Debug\Pr_06_Palindromes.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\bin\Debug\Pr_06_Palindromes.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\obj\Debug\Pr_06_Palindromes.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\obj\Debug\Pr_06_Palindromes.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_06_Palindromes\obj\Debug\Pr_06_Palindromes.pdb

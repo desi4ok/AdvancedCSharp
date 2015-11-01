@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\bin\Debug\Pr_02_ReplaceATag.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\bin\Debug\Pr_02_ReplaceATag.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\bin\Debug\Pr_02_ReplaceATag.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\obj\Debug\Pr_02_ReplaceATag.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\obj\Debug\Pr_02_ReplaceATag.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_02_ReplaceATag\obj\Debug\Pr_02_ReplaceATag.pdb

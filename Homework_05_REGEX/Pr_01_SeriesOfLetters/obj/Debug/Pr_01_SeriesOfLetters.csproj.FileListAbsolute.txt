@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\bin\Debug\Pr_01_SeriesOfLetters.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\bin\Debug\Pr_01_SeriesOfLetters.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\bin\Debug\Pr_01_SeriesOfLetters.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\obj\Debug\Pr_01_SeriesOfLetters.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\obj\Debug\Pr_01_SeriesOfLetters.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_01_SeriesOfLetters\obj\Debug\Pr_01_SeriesOfLetters.pdb

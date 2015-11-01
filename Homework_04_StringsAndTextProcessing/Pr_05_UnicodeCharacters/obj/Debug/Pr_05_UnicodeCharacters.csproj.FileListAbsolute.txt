@@ -1,0 +1,5 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_05_UnicodeCharacters\bin\Debug\Pr_05_UnicodeCharacters.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_05_UnicodeCharacters\bin\Debug\Pr_05_UnicodeCharacters.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_05_UnicodeCharacters\bin\Debug\Pr_05_UnicodeCharacters.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_05_UnicodeCharacters\obj\Debug\Pr_05_UnicodeCharacters.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_05_UnicodeCharacters\obj\Debug\Pr_05_UnicodeCharacters.pdb

@@ -1,0 +1,5 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_02_StringLenght\bin\Debug\Pr_02_StringLenght.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_02_StringLenght\bin\Debug\Pr_02_StringLenght.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_02_StringLenght\bin\Debug\Pr_02_StringLenght.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_02_StringLenght\obj\Debug\Pr_02_StringLenght.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_02_StringLenght\obj\Debug\Pr_02_StringLenght.pdb

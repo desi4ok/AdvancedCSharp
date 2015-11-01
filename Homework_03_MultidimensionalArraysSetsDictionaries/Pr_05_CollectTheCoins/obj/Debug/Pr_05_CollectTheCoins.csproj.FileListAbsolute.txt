@@ -1,0 +1,9 @@
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\bin\Debug\Pr_05_CollectTheCoins.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\bin\Debug\Pr_05_CollectTheCoins.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\bin\Debug\Pr_05_CollectTheCoins.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\obj\Debug\Pr_05_CollectTheCoins.csprojResolveAssemblyReference.cache
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\obj\Debug\Pr_05_CollectTheCoins.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\obj\Debug\Pr_05_CollectTheCoins.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\bin\Debug\Pr_05_CollectTheCoins.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\obj\Debug\Pr_05_CollectTheCoins.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_05_CollectTheCoins\obj\Debug\Pr_05_CollectTheCoins.pdb

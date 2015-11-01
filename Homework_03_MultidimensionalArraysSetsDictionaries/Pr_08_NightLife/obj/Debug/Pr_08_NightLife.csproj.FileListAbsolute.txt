@@ -1,0 +1,9 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\bin\Debug\Pr_08_NightLife.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\bin\Debug\Pr_08_NightLife.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\bin\Debug\Pr_08_NightLife.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\obj\Debug\Pr_08_NightLife.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\obj\Debug\Pr_08_NightLife.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\obj\Debug\Pr_08_NightLife.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\bin\Debug\Pr_08_NightLife.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\obj\Debug\Pr_08_NightLife.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_08_NightLife\obj\Debug\Pr_08_NightLife.pdb

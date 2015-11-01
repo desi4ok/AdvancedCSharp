@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\bin\Debug\Pr_04_TextFilter.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\bin\Debug\Pr_04_TextFilter.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\bin\Debug\Pr_04_TextFilter.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\obj\Debug\Pr_04_TextFilter.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\obj\Debug\Pr_04_TextFilter.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_04_TextFilter\obj\Debug\Pr_04_TextFilter.pdb

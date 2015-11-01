@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\bin\Debug\Pr_01_ReverseString.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\obj\Debug\Pr_01_ReverseString.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\bin\Debug\Pr_01_ReverseString.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\bin\Debug\Pr_01_ReverseString.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\obj\Debug\Pr_01_ReverseString.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_04_StringsAndTextProcessing\Pr_01_ReverseString\obj\Debug\Pr_01_ReverseString.pdb

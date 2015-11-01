@@ -1,0 +1,6 @@
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\bin\Debug\Pr_03_MatrixShuffling.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\bin\Debug\Pr_03_MatrixShuffling.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\bin\Debug\Pr_03_MatrixShuffling.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\obj\Debug\Pr_03_MatrixShuffling.csprojResolveAssemblyReference.cache
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\obj\Debug\Pr_03_MatrixShuffling.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_03_MatrixShuffling\obj\Debug\Pr_03_MatrixShuffling.pdb

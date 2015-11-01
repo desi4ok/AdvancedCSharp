@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\bin\Debug\Pr_03_ExtractEmails.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\bin\Debug\Pr_03_ExtractEmails.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\bin\Debug\Pr_03_ExtractEmails.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\obj\Debug\Pr_03_ExtractEmails.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\obj\Debug\Pr_03_ExtractEmails.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_05_REGEX\Pr_03_ExtractEmails\obj\Debug\Pr_03_ExtractEmails.pdb

@@ -1,0 +1,9 @@
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\bin\Debug\Pr_07_Phonebook.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\bin\Debug\Pr_07_Phonebook.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\bin\Debug\Pr_07_Phonebook.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\obj\Debug\Pr_07_Phonebook.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\obj\Debug\Pr_07_Phonebook.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\obj\Debug\Pr_07_Phonebook.pdb
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\bin\Debug\Pr_07_Phonebook.exe.config
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\obj\Debug\Pr_07_Phonebook.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_07_Phonebook\obj\Debug\Pr_07_Phonebook.pdb

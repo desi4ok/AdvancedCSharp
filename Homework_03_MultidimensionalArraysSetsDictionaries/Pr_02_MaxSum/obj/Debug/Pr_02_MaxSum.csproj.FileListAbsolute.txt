@@ -1,0 +1,9 @@
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\bin\Debug\Pr_02_MaxSum.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\bin\Debug\Pr_02_MaxSum.exe.config
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\bin\Debug\Pr_02_MaxSum.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\bin\Debug\Pr_02_MaxSum.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\obj\Debug\Pr_02_MaxSum.exe
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\obj\Debug\Pr_02_MaxSum.pdb
+D:\ProgrammingDeska\05_AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\obj\Debug\Pr_02_MaxSum.csprojResolveAssemblyReference.cache
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\obj\Debug\Pr_02_MaxSum.exe
+D:\Doc's\others\Programming\AdvancedC#\Homework_03_MultidimensionalArraysSetsDictionaries\Pr_02_MaxSum\obj\Debug\Pr_02_MaxSum.pdb
